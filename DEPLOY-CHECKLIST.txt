@@ -1,0 +1,17 @@
+RUKH BY MAH — UPDATED DEPLOYMENT
+
+GitHub repository root must directly contain:
+index.html
+collection.html
+articles.html
+upcoming.html
+why-us.html
+reviews.html
+location.html
+customer-care.html
+vercel.json
+assets/
+
+In Vercel use Framework Preset = Other, Root Directory = ./, with build/install/output commands empty.
+
+This build uses local supplied images and inline CSS/JS, so the website remains styled even if external asset paths fail.
